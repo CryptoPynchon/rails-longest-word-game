@@ -1,3 +1,4 @@
+require 'open-uri'
 class GamesController < ApplicationController
   def new
     # TODO: generate random grid of letter
